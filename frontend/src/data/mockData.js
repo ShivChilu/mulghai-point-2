@@ -72,7 +72,5 @@ export const mockProducts = [
 // Service areas with pincodes
 export const serviceablePincodes = {
   "144411": "LPU Campus (Chaheru, Phagwara)",
-  "144402": "LPU vicinity / Law Gate / General LPU", 
-  "144401": "Phagwara city and surrounding areas",
-  "144407": "Nearby locality: Domeli"
+  "144402": "LPU vicinity / Law Gate / General LPU / Green Valley / Bhutani colony / Jazzi Properties", 
 };
