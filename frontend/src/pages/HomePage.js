@@ -235,9 +235,9 @@ const HomePage = () => {
             </div>
 
             <div className="flex items-center space-x-2">
-              <a href="tel:7986955634" className="hidden md:flex items-center space-x-2 text-amber-700 hover:text-amber-800 transition-colors px-3 py-2 rounded-full">
+              <a href="tel:6284307484" className="hidden md:flex items-center space-x-2 text-amber-700 hover:text-amber-800 transition-colors px-3 py-2 rounded-full">
                 <Phone className="w-4 h-4" />
-                <span className="text-sm font-medium">7986955634</span>
+                <span className="text-sm font-medium">6284307484</span>
               </a>
 
               {/* Top Cart Button */}
@@ -316,7 +316,7 @@ const HomePage = () => {
               <Button size="lg" onClick={() => scrollToSection('products')} className="bg-amber-600 hover:bg-amber-500 text-white font-semibold px-8 py-4 rounded-full shadow-md transition-transform active:scale-95">
                 Shop Now
               </Button>
-              <Button size="lg" variant="outline" onClick={() => window.open('https://wa.me/917986955634', '_blank')} className="border border-amber-300 text-amber-700 hover:bg-amber-50 bg-white px-8 py-4 rounded-full">
+              <Button size="lg" variant="outline" onClick={() => window.open('https://wa.me/916284307484', '_blank')} className="border border-amber-300 text-amber-700 hover:bg-amber-50 bg-white px-8 py-4 rounded-full">
                 Contact Us
               </Button>
             </div>
@@ -473,7 +473,7 @@ const HomePage = () => {
               <p className="text-slate-600 mb-4">Your trusted partner for premium fresh meat delivery.</p>
               <div className="flex items-center space-x-2 bg-amber-50 rounded-full px-4 py-2 border border-amber-100">
                 <Phone className="w-4 h-4 text-amber-700" />
-                <span className="text-amber-700 font-medium">7986955634</span>
+                <span className="text-amber-700 font-medium">6284307484</span>
               </div>
             </div>
             <div>
@@ -545,7 +545,7 @@ const HomePage = () => {
 
       {/* WhatsApp Float Button */}
       <div className="fixed bottom-24 md:bottom-6 right-6 z-40">
-        <Button size="lg" className="rounded-full bg-emerald-500 hover:bg-emerald-400 text-white shadow-md p-4" onClick={() => window.open('https://wa.me/917986955634?text=Hi%20Mulghai%20Point,%20I%20need%20help%20with%20my%20order!', '_blank')}>
+        <Button size="lg" className="rounded-full bg-emerald-500 hover:bg-emerald-400 text-white shadow-md p-4" onClick={() => window.open('https://wa.me/916284307484?text=Hi%20Mulghai%20Point,%20I%20need%20help%20with%20my%20order!', '_blank')}>
           <Phone className="w-6 h-6" />
         </Button>
       </div>
